@@ -1,0 +1,22 @@
+# Skompilowane pliki
+build/
+*.o
+*.out
+a.out
+
+# Binarki bez rozszerzenia (skompilowane rozdziały)
+rozdzial01_hello_world
+rozdzial02_generator_kluczy
+rozdzial04_bruteforce_pin
+rozdzial05_inspektor_pamieci
+rozdzial06_toolkit
+rozdzial07_xor_cipher
+rozdzial09_keylogger
+rozdzial10_analizator_logow
+final_skaner_portow
+network_scanner
+
+# System
+.DS_Store
+.vscode/
+.claude/
